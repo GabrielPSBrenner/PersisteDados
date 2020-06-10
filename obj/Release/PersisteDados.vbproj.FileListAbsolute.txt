@@ -1,0 +1,3 @@
+C:\Projetos\PERSISTEDADOS\bin\PersisteDados.dll
+C:\Projetos\PERSISTEDADOS\bin\PersisteDados.tlb
+C:\Projetos\PERSISTEDADOS\obj\Release\PersisteDados.dll

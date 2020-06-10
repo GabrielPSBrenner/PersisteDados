@@ -1,0 +1,5 @@
+C:\Projetos\PERSISTEDADOS\bin\PersisteDados.dll
+C:\Projetos\PERSISTEDADOS\bin\PersisteDados.pdb
+C:\Projetos\PERSISTEDADOS\bin\PersisteDados.tlb
+C:\Projetos\PERSISTEDADOS\obj\Debug\PersisteDados.dll
+C:\Projetos\PERSISTEDADOS\obj\Debug\PersisteDados.pdb

@@ -1,0 +1,8 @@
+C:\PROJETOS\PERSISTEDADOS\bin\PersisteDados.dll
+C:\PROJETOS\PERSISTEDADOS\bin\PersisteDados.tlb
+C:\PROJETOS\PERSISTEDADOS\obj\Release\ResolveAssemblyReference.cache
+C:\PROJETOS\PERSISTEDADOS\obj\Release\PersisteDados.dll
+C:\PROJETOS\PERSISTEDADOS\bin\PersisteDados.pdb
+C:\PROJETOS\PERSISTEDADOS\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJETOS\PERSISTEDADOS\obj\Debug\PersisteDados.dll
+C:\PROJETOS\PERSISTEDADOS\obj\Debug\PersisteDados.pdb
